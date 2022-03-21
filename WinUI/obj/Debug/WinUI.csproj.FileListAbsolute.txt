@@ -1,0 +1,13 @@
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\bin\Debug\WinUI.exe.config
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\bin\Debug\WinUI.exe
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\bin\Debug\WinUI.pdb
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\obj\Debug\WinUI.csproj.AssemblyReference.cache
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\obj\Debug\WinUI.Form1.resources
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\obj\Debug\WinUI.csproj.GenerateResource.cache
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\obj\Debug\WinUI.exe
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\obj\Debug\WinUI.pdb
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\bin\Debug\LogicLibrary.dll
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\bin\Debug\LogicLibrary.pdb
+C:\Users\HarambeCrompten\source\repos\PetClass\WinUI\obj\Debug\WinUI.csproj.CopyComplete
